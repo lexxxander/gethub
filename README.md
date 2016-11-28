@@ -6,5 +6,7 @@ The anagram words will be showed based from the file listed. (see <a href='https
 
 For example, when you type word <b>enlist</b>, it would display an output:<br/>
   inlets, listen, silent
-  
-<a href='https://github.com/lexxxander/gethub/blob/master/Anagram/Anagram.jar'>click here to run app</a>
+
+<b>STEPS</b><br/>
+1.) Copy/dowload executable jar <a href='https://github.com/lexxxander/gethub/blob/master/Anagram/Anagram.jar'>file</a><br/>
+2.) Copy/download <a href='https://github.com/lexxxander/gethub/blob/master/wordlist.txt'>wordlist.txt</a> file to same location with executable jar file 'Anagram.jar'.
