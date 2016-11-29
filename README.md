@@ -4,5 +4,6 @@ An ANAGRAM is direct word switch or word play, the result of rearranging the let
 In this application, it shows all anagrams matching based from the words listed. (see <a href='https://github.com/lexxxander/gethub/blob/master/wordlist.txt'>file</a>)
 
 <b>HOW TO RUN THE APPLICATION</b><br/>
-1.) Copy/dowload executable jar <a href='https://github.com/lexxxander/gethub/blob/master/Anagram/Anagram.jar'>file</a><br/>
+1.) Copy/dowload executable jar <a href='https://github.com/lexxxander/gethub/blob/branch2.0/Anagram.jar'>file</a><br/>
+2.) Double click the jar file.
 
